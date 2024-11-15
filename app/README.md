@@ -45,8 +45,8 @@ A report in output.txt that provides a clear summary of the tagging process.
 ### Steps to Run the Application
 1. Clone the Repository
     ```
-    git clone <repository-url>
-    cd FlowLogAnalyzer
+    git clone https://github.com/shipra-aeron/FlowLogAnalyzer.git
+    cd app
     ```
 2. Add Input Files
 
